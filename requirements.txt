@@ -1,0 +1,10 @@
+streamlit>=1.37
+pandas
+numpy
+plotly
+requests
+beautifulsoup4
+ta
+yfinance
+tzdata
+streamlit-autorefresh
